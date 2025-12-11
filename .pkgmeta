@@ -1,0 +1,8 @@
+package-as: SenseiCastBar
+ignore:
+    - .git
+    - .gitignore
+    - .vscode
+    - __MACOSX
+    - .DS_Store
+    - LanacanXPBar
