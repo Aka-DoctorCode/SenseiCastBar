@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: Sensei Cast Bar - Full Integration
+## Notes: Cast Bar fully integrated with Sensei Class Resource Bar framework
+## Author: Integration Project
+## Dependencies: SenseiClassResourceBar
+## LoadOnDemand: 0
+
+SenseiCastBar.xml
